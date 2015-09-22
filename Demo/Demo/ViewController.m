@@ -33,4 +33,8 @@
     NSLog(@"新增密码!!!");
 }
 
+- (void)addMethod2{
+    NSLog(@"新增密码222!!!");
+}
+
 @end
