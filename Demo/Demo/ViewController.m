@@ -29,4 +29,8 @@
     NSLog(@"收到内存警告了");
 }
 
+- (void)addMethod{
+    NSLog(@"新增密码!!!");
+}
+
 @end
